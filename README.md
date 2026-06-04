@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Data Analyst | Frontend Developer | Web3 Enthusiast | Smart Contract Developer | AI Explorer
+### 🚀 Data Analyst | AI Explorer
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Frontend+Developer;Web3+Developer;Smart+Contract+Engineer;AI+%26+Data+Analytics+Enthusiast;Building+Solutions+That+Matter" alt="Typing SVG" />
 
